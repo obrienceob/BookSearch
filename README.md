@@ -24,10 +24,9 @@ View the deployed application at: <b><a href="https://fathomless-dawn-44103.hero
 
 5. The `Delete` button to rremoves books from the page, which deletes the document from the Mongo database.
 
-#### Search for, save, and delete books:   
+#### Image of Deployed App:   
 
-![Google Books Search](https://user-images.githubusercontent.com/52802240/77485425-55f33b00-6dea-11ea-986c-17e9e4572261.gif)
-
+<img src="./images/D8EA262E-0036-45DA-B87A-11041D27EA81.jpeg" alt="image of deployed app">
 ---
 
 ## Installation and Setup Instructions
