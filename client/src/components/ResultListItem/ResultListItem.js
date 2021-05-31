@@ -37,32 +37,10 @@ class ResultListItem extends Component {
 
 
     onClickFunc = () => {
-        this.props.saveGoogleBook(this.props)//.bind(this, this.props);
+        this.props.saveGoogleBook(this.props)
         this.getStyle();
     }
 
-    // getStyle = (id) => {
-    //     let style = {
-    //         backgroundColor: "#00E000",
-    //         color: "white"   
-    //     }
-    //     if (this.state.mounted) {
-    //         console.log("Here's the id", id)
-    //         API.getBook(id)
-    //         .then(res => {
-    //             console.log("Here's the res", res);
-    //             if (res.data.id == id) {
-    //                 console.log("There's a match!");
-    //                 console.log(style);
-    //                 return style
-    //             }
-    //         })
-    //         .catch(err => {
-    //             console.log(err)
-    //         })
-    //     }
-    // }
-    
     
     render () {
         
